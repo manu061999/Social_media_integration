@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="_2021copywrite">&#169;2021Copywrite</string>
+    <string name="facebook_app_id">241542030902376</string>
+    <string name="fb_login_protocol_scheme">fb241542030902376</string>
+
+
+</resources>
